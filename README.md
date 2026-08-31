@@ -22,6 +22,7 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 Program to implement the Decision Tree Classifier Model for Predicting Employee Churn.
 Developed by: Muruga S
 RegisterNumber:  212225040265
+*/
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.tree import DecisionTreeClassifier
@@ -93,7 +94,7 @@ if prediction[0] == 1:
     print("\nPrediction: Employee is likely to leave.")
 else:
     print("\nPrediction: Employee is likely to stay.")
-*/
+
 ```
 
 ## Output:
