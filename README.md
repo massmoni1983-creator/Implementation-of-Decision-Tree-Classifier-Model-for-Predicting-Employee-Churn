@@ -10,11 +10,11 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 ## Algorithm
 1. Load the Employee dataset and select employee attributes such as satisfaction level, evaluation, projects, working hours, and other relevant features.
    
-2.Split the dataset into training and testing sets using train_test_split().
+2. Split the dataset into training and testing sets using train_test_split().
 
-3.Create and train the Decision Tree Classifier using the training data.
+3. Create and train the Decision Tree Classifier using the training data.
 
-4.Predict employee churn using the test data, calculate the accuracy, and predict whether a new employee is likely to leave or stay. 
+4. Predict employee churn using the test data, calculate the accuracy, and predict whether a new employee is likely to leave or stay. 
 
 ## Program:
 ```
